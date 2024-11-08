@@ -27,6 +27,6 @@ countdown("April 3, 2025 00:00:00", "time1");   // Aniversario de noviazgo
 countdown("May 4, 2025 00:00:00", "time2");     // Aniversario de noviazgo 2
 countdown("August 14, 2025 00:00:00", "time3"); // Aniversario de conocernos
 countdown("September 5, 2025 00:00:00", "time4"); // Cumple de Crotto
-countdown("November 5, 2024 00:00:00", "time5"); // Cumple la persona más hermosa del universo
+countdown("November 5, 2025 00:00:00", "time5"); // Cumple la persona más hermosa del universo
 countdown("November 9, 2024 00:00:00", "time6"); // Cumple el bostero
 countdown("December 16, 2024 00:00:00", "time7"); // Aniversario de la lluvia
